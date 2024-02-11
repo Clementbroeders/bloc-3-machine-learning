@@ -8,12 +8,12 @@ GitHub repository : [Walmart Sales Machine Learning](walmart-sales)
 
 ## 2) Conversion rate challenge
 
-GitHub repository : [Conversion Rate Machine Learning](https://github.com/Clementbroeders/conversion-rate-ml)
+GitHub repository : [Conversion Rate Machine Learning](conversion-rate)
 
 <br>
 
 ## 3) Uber Pickups
 
-GitHub repository : [Uber Insights NYC Machine Learning](https://github.com/Clementbroeders/uber-insights-nyc-ml)
+GitHub repository : [Uber Insights NYC Machine Learning](uber-insights-nyc)
 
 <br>
